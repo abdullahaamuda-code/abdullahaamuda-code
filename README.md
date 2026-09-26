@@ -1,6 +1,6 @@
 # Abdullah A-Amuda
 
-I build voice engines, Windows tools, and software that shaves seconds off real work. AI agents do the typing; I do the directing — every line reviewed, everything shipped.
+AI agents do the typing; I do the directing — every line reviewed, everything shipped. The output: Windows tools, voice engines, and software that shaves seconds off real work.
 
 ## Featured
 
