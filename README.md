@@ -2,7 +2,7 @@
 
 AI-native builder. I design the system, direct the models, review every line, and ship the whole thing.
 
-Currently deep in: agentic AI, voice engines, and Windows utilities that shave seconds off real work.
+Currently deep in: voice engines, Windows tools, and building software with agents.
 
 ## Featured
 
