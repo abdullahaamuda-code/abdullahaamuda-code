@@ -11,13 +11,13 @@ I build voice engines, Windows tools, and software that shaves seconds off real 
 | [SlideBot](https://github.com/abdullahaamuda-code/SlideBot) | Text prompt in, structured PowerPoint deck out — in seconds. |
 | [Typo Forge](https://github.com/abdullahaamuda-code/typo-forge) | One hotkey that repairs garbled fast-typed text system-wide in ~1.5s. Copy, Ctrl+Alt+G, paste. |
 | [Motif](https://github.com/abdullahaamuda-code/Motif) | A live design atlas: remixable proof sheets that compile into paste-ready prompts for AI coding tools. |
-| [jev-decide](https://github.com/abdullahaamuda-code/jev-decide) | A "System One" decision layer for browser automation: page-state judgments offloaded to a calibrated model, ~1s and ~$0.001 a call. |
+| [jev-decide](https://github.com/abdullahaamuda-code/jev-decide) | For browser automation: offloads "which element do I click?" judgments to a small calibrated model — ~1s, ~$0.001 a decision. |
 
 ## How I work — the honest version
 
 Roughly 90% of my code is AI-assisted. That's the method, not a caveat:
 
-- I prompt in systems, not sentences - architecture, constraints, and failure modes stated up front.
+- I prompt in systems, not sentences — architecture, constraints, and failure modes stated up front.
 - I review and edit everything that ships. I know where models slip: security corners, dead abstractions, invented behavior.
 - Everything public here ran on my own machine first, against my own keys and my own workflow.
 
