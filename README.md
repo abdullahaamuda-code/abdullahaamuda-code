@@ -2,16 +2,16 @@
 
 AI-native builder. I design the system, direct the models, review every line, and ship the whole thing.
 
-Currently deep in: LLM gateways, voice engines, agent tooling, and Windows utilities that shave seconds off real work.
+Currently deep in: agentic AI, voice engines, and Windows utilities that shave seconds off real work.
 
 ## Featured
 
 | Project | What it is |
 |---|---|
-| [Cupbearer](https://github.com/abdullahaamuda-code/cupbearer) | The LLM gateway that never hands your task to a model that can't handle it. BYOK pooling, key rotation, quality-verified routing with receipts. |
-| [Vokto](https://github.com/abdullahaamuda-code/Vokto) | Premium always-on voice typing. Press Alt+Q anywhere, talk naturally, text streams live into any app. |
-| [Typo Forge](https://github.com/abdullahaamuda-code/typo-forge) | One hotkey that repairs garbled fast-typed text system-wide in ~1.5s. Copy, Ctrl+Alt+G, paste. |
 | [Zero](https://github.com/abdullahaamuda-code/zero) | Autonomous AI operator and build partner — voice line, holographic HUD face, persistent memory vault. |
+| [Vokto](https://github.com/abdullahaamuda-code/Vokto) | Premium always-on voice typing. Press Alt+Q anywhere, talk naturally, text streams live into any app. |
+| [Cupbearer](https://github.com/abdullahaamuda-code/cupbearer) | The LLM gateway that never hands your task to a model that can't handle it. BYOK pooling, key rotation, quality-verified routing with receipts. |
+| [Typo Forge](https://github.com/abdullahaamuda-code/typo-forge) | One hotkey that repairs garbled fast-typed text system-wide in ~1.5s. Copy, Ctrl+Alt+G, paste. |
 | [Motif](https://github.com/abdullahaamuda-code/Motif) | A live design atlas: remixable proof sheets that compile into paste-ready prompts for AI coding tools. |
 | [jev-decide](https://github.com/abdullahaamuda-code/jev-decide) | A "System One" decision layer for browser automation: page-state judgments offloaded to a calibrated model, ~1s and ~$0.001 a call. |
 
