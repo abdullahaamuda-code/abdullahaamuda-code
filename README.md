@@ -15,7 +15,7 @@ AI agents do the typing; I do the directing — every line reviewed, everything 
 
 ## How I work — the honest version
 
-Roughly 90% of my code is AI-assisted. That's the method, not a caveat:
+Roughly 80% of my code is AI-assisted. That's the method, not a caveat:
 
 - I prompt in systems, not sentences — architecture, constraints, and failure modes stated up front.
 - I review and edit everything that ships. I know where models slip: security corners, dead abstractions, invented behavior.
