@@ -39,7 +39,7 @@ I'm a Computer Engineering student at ABU Zaria and an Airtel Africa Foundation 
 ## Right now
 
 - Building my portfolio
-- Getting Voxen out to the public
+- Voxen is out, and I use it every day
 - Studiengine stays live and keeps running while I focus on the above
 
 Most of my public repositories are MIT licensed. Zero is AGPL-3.0.
