@@ -1,35 +1,45 @@
-# Abdullah A-Amuda
+# Hey, I'm Abdullah 👋
 
-AI agents do the typing; I do the directing — every line reviewed, everything shipped. The output: Windows tools, voice engines, and software that shaves seconds off real work.
+I ship software. A live exam-prep product used by real students, an LLM gateway, a voice agent, desktop tools I use every day, and a few websites in between.
 
-## Featured
+I'm a Computer Engineering student at ABU Zaria and an Airtel Africa Foundation Fellow, building from Zaria, Nigeria.
+
+## What I've shipped
+
+### Products
 
 | Project | What it is |
 |---|---|
-| [Zero](https://github.com/abdullahaamuda-code/zero) | Autonomous AI operator and build partner — voice line, holographic HUD face, persistent memory vault. |
-| [Vokto](https://github.com/abdullahaamuda-code/Vokto) | Premium always-on voice typing. Press Alt+Q anywhere, talk naturally, text streams live into any app. |
-| [SlideBot](https://github.com/abdullahaamuda-code/SlideBot) | Text prompt in, structured PowerPoint deck out — in seconds. |
-| [Typo Forge](https://github.com/abdullahaamuda-code/typo-forge) | One hotkey that repairs garbled fast-typed text system-wide in ~1.5s. Copy, Ctrl+Alt+G, paste. |
-| [Motif](https://github.com/abdullahaamuda-code/Motif) | A live design atlas: remixable proof sheets that compile into paste-ready prompts for AI coding tools. |
-| [jev-decide](https://github.com/abdullahaamuda-code/jev-decide) | For browser automation: offloads "which element do I click?" judgments to a small calibrated model — ~1s, ~$0.001 a decision. |
+| [**Studiengine**](https://studiengine.com.ng) | AI-powered CBT exam prep for Nigerian students (JAMB, WAEC, NECO). Upload your own notes, get practice questions generated from them, and see instant explanations plus which topics you keep missing. I built it solo, end to end: Next.js, Firebase, Paystack payments, referrals, an admin panel. It's live and real students use it. I've paused active development for now. |
+| [**Motif**](https://github.com/abdullahaamuda-code/Motif) | A free design atlas where every design is rendered live, remixable in real time, and compiled into a paste-ready prompt for your AI coding tool. Includes an AI Design Director. [Live site](https://motif-design-one.vercel.app). |
 
-## How I work — the honest version
+### Infrastructure
 
-Roughly 80% of my code is AI-assisted. That's the method, not a caveat:
+| Project | What it is |
+|---|---|
+| [**Cupbearer**](https://github.com/abdullahaamuda-code/cupbearer) | A self-hosted LLM gateway. It pools your free-tier and paid API keys behind one endpoint, handles rotation and failover, and refuses to hand your task to a model that can't do the job. Every routing decision is logged as evidence. Zero runtime dependencies, 265 tests. |
+| [**jev-decide**](https://github.com/abdullahaamuda-code/jev-decide) | A fast decision layer for browser automation. It answers "which element do I click?" in about a second for a tenth of a cent, with a calibrated confidence score you can gate on. |
 
-- I prompt in systems, not sentences — architecture, constraints, and failure modes stated up front.
-- I review and edit everything that ships. I know where models slip: security corners, dead abstractions, invented behavior.
-- Everything public here ran on my own machine first, against my own keys and my own workflow.
+### Desktop and voice
 
-The models write fast. Direction, judgment, and the ship decision stay mine.
+| Project | What it is |
+|---|---|
+| [**Voxen**](https://github.com/abdullahaamuda-code/voxen) | Free, bring-your-own-key voice dictation for Windows. Hold a hotkey, speak in any app, and clean text lands at your cursor. |
+| [**Zero**](https://github.com/abdullahaamuda-code/zero) | A local voice agent that operates my machine. Real-time speech, a holographic HUD, and a plain-markdown memory vault that persists across sessions. |
+| [**Typo Forge**](https://github.com/abdullahaamuda-code/typo-forge) | One hotkey that repairs garbled, fast-typed text anywhere on Windows in about 1.5 seconds. Python standard library only. |
+| [**SlideBot**](https://github.com/abdullahaamuda-code/SlideBot) | Type a prompt, get a structured PowerPoint deck back. |
 
-## Now
+## How I build
 
-- Cleaning up and open-sourcing the next batch of tools
-- Portfolio site in the works
+- **Speed is a feature.** Warm connections, few round-trips, and feedback that never leaves you waiting.
+- **Your keys, your machine.** Bring-your-own-key, local-first, and no telemetry in anything I publish.
+- **Receipts over claims.** Tests, benchmarks, and decision logs. If a tool says it works, it should be able to show you.
+- **Use it first.** Everything public ran on my own machine, on my own work, before anyone else saw it.
 
-## Why
+## Right now
 
-Software creation moved. The scarce skill isn't syntax anymore — it's specifying
-exactly, judging output honestly, and shipping systems that hold up under real use.
-I build that way, in the open.
+- Building my portfolio
+- Getting Voxen out to the public
+- Studiengine stays live and keeps running while I focus on the above
+
+Most of my public repositories are MIT licensed. Zero is AGPL-3.0.
